@@ -1,0 +1,27 @@
+.smile.red{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.eyes{
+    margin: 20px auto;
+    width: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.eyes .first, .second{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: red;
+}
+
+.mouth.red{
+    width: 100px;
+    height: 40px;
+    border-radius: 0 0 50% 50%;
+    background: red;
+}
