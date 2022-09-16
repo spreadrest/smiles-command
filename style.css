@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.blue__eyes{
+    width: 109px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 40px auto;
+}
+
+.blue__eye{
+    width: 37px;
+    height: 39px;
+    background-color:#34BCAC ;
+    border-radius: 50%;
+
+}
+
+.blue__mouse{
+    width: 114px;
+    height: 35px;
+    border-radius: 0 0 125px 125px;
+    background: #34BCAC;
+}
+
+.blue__head{
+    width: 187px;
+    height: 187px;
+    border-radius: 50%;
+    background: #34BCAC;
+    margin: 40px auto;
+}
