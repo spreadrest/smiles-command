@@ -1,0 +1,27 @@
+.red__mouse-green{
+    width: 114px;
+    height: 35px;
+    border-radius: 0 0 125px 125px;
+    background: #10BD17;
+    margin: 40px auto;
+}
+.grean__head-green{
+    width: 187px;
+    height: 187px;
+    border-radius: 50%;
+    background: #10BD17;
+}
+.blue__eyes-green{
+    width: 109px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 40px auto;
+}
+.blue__eye-green{
+    height: 37px;
+    width: 39px;
+    border-radius: 50%;
+    background: #10BD17;
+    
+}
